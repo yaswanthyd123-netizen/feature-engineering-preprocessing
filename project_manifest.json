@@ -1,0 +1,16 @@
+{
+  "project": "Feature Engineering & Preprocessing Pipeline",
+  "task": "RabTech Academy Task 03",
+  "dataset": "Synthetic credit default risk data",
+  "rows": 1200,
+  "columns": 12,
+  "files": [
+    "README.md",
+    "credit-default-risk.csv",
+    "feature_engineering_pipeline.ipynb",
+    "preprocessing_design_memo.md",
+    "responsible_data_card.html",
+    "responsible_data_card.md",
+    "risk_register.md"
+  ]
+}
